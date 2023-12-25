@@ -14,7 +14,6 @@ buttons.forEach((button) => {
   });
 });
 
-
 submit.addEventListener("click", () => {
   rating.textContent = value;
   card.style.display = "none";
